@@ -62,7 +62,9 @@ header {
 }
 
 .adopted {
-  grid-area: adpt;
+  grid-area: adpt;;
+  /* height: 20px;
+  width: 20px; */
 }
 
 .box {
