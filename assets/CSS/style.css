@@ -113,22 +113,12 @@ footer {
 
 @media screen and (max-width: 1280px) { 
   .image-wrapper {
-    /* display: grid; */
     grid-template-columns: repeat(2, 1fr);
-    /* justify-content: center; */
   }
-};
+}
 
 @media screen and (max-width: 768px) { 
   .image-wrapper {
-    /* display: grid; */
-    /* grid-template-columns: 1fr; */
-    background-color: red;
-    /* grid-template-rows: auto; */
-    /* justify-content: center; */
+    grid-template-columns: 1fr;
   }
-};
-
-/* @media screen and (max-width: 480px) { 
-  
-}; */
+}
