@@ -61,9 +61,9 @@ header {
   padding-right: 2rem;
 }
 
-.cat-info > 4 {
+/* .cat-info > 4 {
   padding-right: 2rem;
-}
+} */
 
 .cat-location {
   grid-area: cl;
